@@ -1,2 +1,2 @@
 #!/bin/bash
--name "*.js" -delete
+-name "*.js" -delete\
